@@ -1,0 +1,2 @@
+{"timestamp":"2026-03-07T03:50:43.773315Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/4_XCOMS_kwargs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-07T03:51:14.567651Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/4_XCOMS_kwargs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
